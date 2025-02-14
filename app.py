@@ -27,7 +27,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 st.title("Día del Amor y la Amistad - PENSIONISSSTE")
 
 # Subtítulo
-st.header("Videos para mis compañeros y compañeras")
+#st.header("Videos para mis compañeros y compañeras")
 
 # Cargar y mostrar el primer video
 st.subheader("Video 1")
